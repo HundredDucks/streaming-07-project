@@ -1,0 +1,16 @@
+2023-09-09 21:26:27,925.shipping_consumer.INFO ==================================================
+2023-09-09 21:26:27,926.shipping_consumer.INFO Today is 2023-09-09 at 09:26 PM
+2023-09-09 21:26:27,929.shipping_consumer.INFO Running on: nt Windows 10
+2023-09-09 21:26:27,930.shipping_consumer.INFO Python version:  3.9.12
+2023-09-09 21:26:27,931.shipping_consumer.INFO Python path: C:\Users\zachf\anaconda3
+2023-09-09 21:26:27,932.shipping_consumer.INFO Working dir: C:\Users\zachf\Desktop\StreamingData\streaming-07-project
+2023-09-09 21:26:27,933.shipping_consumer.INFO ==================================================
+2023-09-09 21:26:27,975.shipping_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-09 21:26:27,975.shipping_consumer.INFO A shipment was sent by Ocean for $44137.0.
+2023-09-09 21:26:27,977.shipping_consumer.INFO  [x] Shipment Processed.
+2023-09-09 21:26:30,883.shipping_consumer.INFO A shipment was sent by Ocean for $67821.0.
+2023-09-09 21:26:30,885.shipping_consumer.INFO  [x] Shipment Processed.
+2023-09-09 21:26:35,894.shipping_consumer.INFO  User interrupted continuous listening process.
+2023-09-09 21:26:35,897.shipping_consumer.INFO 
+Closing connection. Goodbye.
+
